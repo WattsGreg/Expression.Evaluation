@@ -3,3 +3,10 @@
 ################################################################################
 
 /.vs
+/packages
+/Expression.Evaluation/bin/Debug/netstandard2.0
+/Expression.Evaluation/obj
+/Expression.Evaluation.Application/bin/Debug
+/Expression.Evaluation.Application/obj
+/Expression.Evaluation.Tests/bin/Debug
+/Expression.Evaluation.Tests/obj/Debug
